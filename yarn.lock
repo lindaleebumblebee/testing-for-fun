@@ -5754,9 +5754,7 @@ gatsby-graphiql-explorer@^0.4.3:
     "@babel/runtime" "^7.9.6"
 
 gatsby-image@^2.2.34:
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-2.4.5.tgz#c14f549a224a0306e20c1b39f3f6fef41b0918f6"
-  integrity sha512-XqSUEJX42ufWuce8JXaDRYKxpFBUqVoNRhG2lGABUenwUqLc2UAYebb5xXUQ7HZJciGi5HdoJtWuZOy5NzphsA==
+  version "2.11.0"
   dependencies:
     "@babel/runtime" "^7.9.6"
     object-fit-images "^3.2.4"
@@ -5799,16 +5797,12 @@ gatsby-plugin-page-creator@^2.3.7:
     micromatch "^3.1.10"
 
 gatsby-plugin-react-helmet@^3.1.16:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.3.2.tgz#5619a1808d9607eb89c19d3f04854f497c6fb890"
-  integrity sha512-uRZlX4ejy0Txlw+9qbIVkULsuc6iniSwDgD+Ed6BOryKmF42qaqmdbcc78ZwPVN2SZJCDhcZKXoJf6QftTwwDg==
+  version "3.10.0"
   dependencies:
     "@babel/runtime" "^7.9.6"
 
 gatsby-plugin-sass@^2.1.24:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-2.3.2.tgz#3623fc5881ae4b323f90bf58c80dffefe736ddf0"
-  integrity sha512-gY/+6A2vERluDuAhpUdLtrJfpGGmg3W7SwIvelCxowZpwF8DO7R5scARAY8yY7rJtTDB5BQhpSSHLapXnwuAqw==
+  version "2.8.0"
   dependencies:
     "@babel/runtime" "^7.9.6"
     sass-loader "^7.3.1"
@@ -5921,9 +5915,7 @@ gatsby-source-datocms@^2.2.4:
     request-promise-native "1.0.7"
 
 gatsby-source-filesystem@^2.1.40:
-  version "2.3.8"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.3.8.tgz#c1902fefdd700f2b34eea2d6dcd75543e49f90e2"
-  integrity sha512-b+K1WU8x7Ekxf1f7FrSAtjOkHhWTlrDJhubkA38SUgSbmKDotTOoU+bLi7PlnA3GgUnZ9kGSvzXNImRc6fFPCg==
+  version "2.11.1"
   dependencies:
     "@babel/runtime" "^7.9.6"
     better-queue "^3.8.10"
